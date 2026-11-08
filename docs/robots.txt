@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ojosuevfx.github.io/cartaz-historico-motion/sitemap.xml
